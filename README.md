@@ -1,8 +1,11 @@
 <h1 align="center">Hey There 👋, I'm Shishir Rijal</h1>
 <h3 align="center">A tech enthusiast from Nepal who is exploring this binary world.</h3>
 
-<img width="400" align = "right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="shishirrijal" /> 
+<img width="400" align = "right" src="https://github.com/ShishirRijal/ShishirRijal/assets/63596895/8cac5af6-093f-425f-83d2-53d7826fddd8" alt="shishirrijal" /> 
 
+
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
