@@ -1,7 +1,12 @@
 <h1 align="center">Hey There 👋, I'm Shishir Rijal</h1>
-<h3 align="center">A tech enthusiast from Nepal who is exploring this binary world.</h3>
 
-<img width="400" align = "right" src="https://github.com/ShishirRijal/ShishirRijal/assets/63596895/8cac5af6-093f-425f-83d2-53d7826fddd8" alt="shishirrijal" /> 
+<img width="400" align = "right" src="https://github.com/ShishirRijal/ShishirRijal/assets/63596895/4a8b145b-1469-43bc-b212-e77b0ec5c3ef" alt="shishirrijal" /> 
+
+<p>
+A tech enthusiast hailing from the <u>beautiful landscapes of Nepal</u>. Currently immersed in the world of computer engineering as a student, I find joy in exploring the intricacies of this binary realm.
+
+My passion lies in app development, where I get to bring my ideas to life through coding. I'm always eager to dive into the latest technologies, whether it's delving into the realms of <i>machine learning</i> or experimenting with innovative products in the market.
+</p>
 
 
 
