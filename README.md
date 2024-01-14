@@ -1,6 +1,8 @@
 <h1 align="center">Hey There 👋, I'm Shishir Rijal</h1>
 
-<img width="400" align = "right" src="https://github.com/ShishirRijal/ShishirRijal/assets/63596895/4a8b145b-1469-43bc-b212-e77b0ec5c3ef" alt="shishirrijal" /> 
+<img width="400" align = "right" src="https://github.com/ShishirRijal/ShishirRijal/assets/63596895/eba389f7-3026-4cf5-861a-9484395379bc" alt="shishirrijal" /> 
+
+
 
 <p>
 A tech enthusiast hailing from the <u>beautiful landscapes of Nepal</u>. Currently immersed in the world of computer engineering as a student, I find joy in exploring the intricacies of this binary realm.
@@ -9,8 +11,6 @@ My passion lies in app development, where I get to bring my ideas to life throug
 </p>
 
 
-
- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
