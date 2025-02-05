@@ -1,39 +1,195 @@
-<h1 align="center">Hey There 👋, I'm Shishir Rijal</h1>
+ 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=const+coffee+%3D+life;while(!sleeping)+%7B+code()+%7D;git+push+origin+main;function+brain()+%7B+return+caffeine+%7D;)](https://git.io/typing-svg)
 
-<img width="400" align = "right" src="https://github.com/ShishirRijal/ShishirRijal/assets/63596895/eba389f7-3026-4cf5-861a-9484395379bc" alt="shishirrijal" /> 
+</div>
+
+## `whoami`
+
+
+A passionate tech enthusiast from the enchanting landscapes of Nepal, where the mountains inspire me to reach new heights in technology. Currently pursuing Computer Engineering at IOE Paschimanchal Campus, I'm on an exciting journey exploring the bits and bytes of this binary world. From mobile app development to machine learning, I love diving into new technologies and bringing ideas to life through code.
+
+```python
+class ShishirTheEngineer:
+    def __init__(self):
+        self.name = "Shishir Rijal"
+        self.location = "Pokhara, Nepal 🏔️"
+        self.coffee_level = "Infinity☕"
+        self.current_status = "Converting caffeine to code"
+        self.education = "Computer Engineering @ IOE"
+        
+    def daily_routine(self):
+        while not sleeping:
+            coffee.drink()
+            if self.coffee_level < 3:
+                coffee.refill()
+            try:
+                code.write()
+            except Errors as e:
+                stackoverflow.copy_paste(e)
+            finally:
+                git.push("origin", "main")
+                
+    def get_programming_philosophy(self):
+        return "If it works on my machine, that's good enough! 🚀"
+```
 
 
 
-<p>
-A tech enthusiast hailing from the <u>beautiful landscapes of Nepal</u>. Currently immersed in the world of computer engineering as a student, I find joy in exploring the intricacies of this binary realm.
+## Skills & Powers
 
-My passion lies in app development, where I get to bring my ideas to life through coding. I'm always eager to dive into the latest technologies, whether it's delving into the realms of <i>machine learning</i> or experimenting with innovative products in the market.
+<div align="center">
+
+```mermaid
+mindmap
+  root((Super Powers))
+    Mobile Dev
+      Flutter Ninja
+      SwiftUI Apprentice
+    AI/ML
+      TensorFlow Tamer
+      PyTorch Pilgrim
+      Scikit Sorcerer
+    Backend
+      Django Master
+      FastAPI Explorer
+      Flask Alchemist
+    Tools
+      Git Wizard
+      Docker Novice
+      Cloud Dreamer
+```
+
+</div>
+
+
+
+
+
+## Project Galaxies
+
+### Mobile Development Universe
+<div align="center">
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=iDo-SwiftUI&theme=tokyonight)](https://github.com/ShishirRijal/iDo-SwiftUI)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=treasurehunt-app&theme=tokyonight)]([https://github.com/ShishirRijal/Flutter-News-App](https://github.com/ShishirRijal/treasurehunt-app))
+
+</div>
+
+### Machine Learning Dimension
+<div align="center">
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Emotion_Detection&theme=radical)](https://github.com/ShishirRijal/Emotion_Detection)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Spam-SMS-Classification&theme=radical)](https://github.com/ShishirRijal/Spam-SMS-Classification)
+
+</div>
+
+
+## 💭 Random Developer Quotes
+
+```javascript
+// Life of a programmer
+if (brain.isEmpty()) {
+    coffee.drink();
+    brain.recharge();
+    keepCoding();
+} else {
+    while (coffee.exists()) {
+        code.write();
+        bugs.fix();
+    }
+}
+```
+
+
+## My Programming Multiverse
+
+<div align="center">
+
+```text
+Mobile Dev    ███████████████░░░░   75%
+Machine Learning █████████░░░░░░░░   45%
+Backend      ████████░░░░░░░░░░░   40%
+Coffee Level ████████████████████  100%
+Bug Fixing   ██████████████████░░   90%
+```
+
+*When I'm not coding, I'm probably:*
+- ☕ Refilling my coffee mug for the 17th time
+- 💭 Debugging in my dreams
+- 🎮 Gaming to refresh my brain cache
+- 🤔 Contemplating why my code works
+
+</div>
+
+## 🎵 Developer's Playlist
+
+```sql
+SELECT * FROM life 
+WHERE coding = true 
+  AND coffee_level > 0 
+  AND bugs = 0 
+ORDER BY happiness DESC;
+```
+
+## GitHub Statistics
+
+<div align="center">
+
+[![Shishir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShishirRijal&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShishirRijal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShishirRijal&theme=tokyonight" />
 </p>
 
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ccr_rizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccr_rizal" height="30" width="40" /></a>
-<a href="https://instagram.com/ccrrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ccrrizal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shishirrijal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shishirrijal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shishirrijal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shishirrijal" height="30" width="40" /></a>
-</p>
-- 📫 How to reach me **ccrrizal@gmail.com**
+## Certifications
 
-- ⚡ Fun fact **!funny is not funny 8)**
+<div align="center">
 
+[![Certifications](https://img.shields.io/badge/-Associate_Data_Analyst-FF6B6B?style=for-the-badge&logoColor=white)](https://www.yourlink.com)
+[![Certifications](https://img.shields.io/badge/-Programming_in_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.yourlink.com)
+[![Certifications](https://img.shields.io/badge/-Django_Developer-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.yourlink.com)
+[![Certifications](https://img.shields.io/badge/-Data_Manipulation_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://www.yourlink.com)
+[![Certifications](https://img.shields.io/badge/-Git_and_Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.yourlink.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
+</div>
 
-<!--
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shishirrijal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shishirrijal" /></a></p><br><br>
--->
-</br></br>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirrijal&show_icons=true&locale=en&layout=compact" alt="shishirrijal" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishirrijal&show_icons=true&locale=en" alt="shishirrijal" /></p>
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,cpp,django,swift)](https://skillicons.dev)
 
+### 🔧 Tools & Technologies
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,tensorflow)](https://skillicons.dev)
+
+### 📚 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes,pytorch)](https://skillicons.dev)
+
+</div>
+
+## Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ccrrizal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishir.772417@pasc.tu.edu.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shishirrijal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishirrijal)
+[![GitHub](https://img.shields.io/badge/GitHub-ShishirRijal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShishirRijal)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+*"Code is poetry written in caffeine"* ☕️
+
+</div>
