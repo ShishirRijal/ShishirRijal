@@ -168,14 +168,15 @@ SwiftUI ████░░░░░░░░░░░░░░░░░ 15.30 %
 
 <div align="center">
 
-| Role | Organization | Impact |
-|------|-------------|---------|
-| President | i-CES | Led community of 20+ members, Conducted 25+ programs, 100+ mentored students |
-| MLSA | Microsoft | Cloud & AI workshops, developer community growth |
-| Organizer | EthosHack | 24-hour regional hackathon |
-| Organizer | TechParva | Event featuring Code with Coffee, Datathon, Design Incubation, Capture the Flag |
-| Organizer | AI Bootcamp | Year-long ML mentorship program |
-| Organizer & Mentor (Flutter) | Call For Enthusiast | Month long mentorship program|
+| <span style="color:#4CAF50">Role</span> | <span style="color:#FF9800">Organization</span> | <span style="color:#2196F3">Impact</span> |
+|-----------------|-------------------|---------|
+| <span style="color:#4CAF50">President</span> | <span style="color:#FF9800">i-CES</span> | Led community of 20+ members, Conducted 25+ programs, 100+ mentored students |
+| <span style="color:#4CAF50">MLSA</span> | <span style="color:#FF9800">Microsoft</span> | Cloud & AI workshops, developer community growth |
+| <span style="color:#4CAF50">Organizer</span> | <span style="color:#FF9800">EthosHack</span> | 24-hour regional hackathon |
+| <span style="color:#4CAF50">Organizer</span> | <span style="color:#FF9800">TechParva</span> | Event featuring Code with Coffee, Datathon, Design Incubation, Capture the Flag |
+| <span style="color:#4CAF50">Organizer</span> | <span style="color:#FF9800">AI Bootcamp</span> | Year-long ML mentorship program |
+| <span style="color:#4CAF50">Organizer & Mentor (Flutter)</span> | <span style="color:#FF9800">Call For Enthusiast</span> | Month long mentorship program |
+
 
 </div>
 
