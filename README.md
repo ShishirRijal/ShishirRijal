@@ -1,139 +1,145 @@
- 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=const+coffee+%3D+life;while(!sleeping)+%7B+code()+%7D;git+push+origin+main;function+brain()+%7B+return+caffeine+%7D;)](https://git.io/typing-svg)
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Mobile+Dev+%7C%7C+AI+Enthusiast;Community+Organizer;Turning+Coffee+into+Code;____Building+the+Future%2C+One+Commit+at+a+Time____)](https://git.io/typing-svg)
 </div>
 
-## `whoami`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/developer.gif" width="300">
+</div>
 
-
-A passionate tech enthusiast from the enchanting landscapes of Nepal, where the mountains inspire me to reach new heights in technology. Currently pursuing Computer Engineering at IOE Paschimanchal Campus, I'm on an exciting journey exploring the bits and bytes of this binary world. From mobile app development to machine learning, I love diving into new technologies and bringing ideas to life through code.
+## `$ whoami`
 
 ```python
-class ShishirTheEngineer:
+class CodeAlchemist:
     def __init__(self):
         self.name = "Shishir Rijal"
+        self.title = "Mobile Developer & AI Enthusiast"
         self.location = "Pokhara, Nepal 🏔️"
-        self.coffee_level = "Infinity☕"
-        self.current_status = "Converting caffeine to code"
-        self.education = "Computer Engineering @ IOE"
-        
-    def daily_routine(self):
-        while not sleeping:
-            coffee.drink()
-            if self.coffee_level < 3:
-                coffee.refill()
-            try:
-                code.write()
-            except Errors as e:
-                stackoverflow.copy_paste(e)
-            finally:
-                git.push("origin", "main")
-                
-    def get_programming_philosophy(self):
-        return "If it works on my machine, that's good enough! 🚀"
+        self.website = "https://shishirrijal.com.np"
+
+    @property
+    def current_focus(self):
+        return [
+            "Building scalable mobile applications",
+            "Exploring AI/ML",
+            "Leading tech communities",
+            "Mentoring aspiring developers"
+        ]
+
+    @property
+    def working_with(self):
+        return {
+            "mobile": ["Flutter", "Swift", "SwiftUI"],
+            "backend": ["Django", "FastAPI", "Node.js"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "architecture": ["Clean Architecture", "MVVM", "BLoC Pattern"]
+        }
 ```
 
-
-
-## Skills & Powers
-
 <div align="center">
+
+## Tech Stack
 
 ```mermaid
 mindmap
-  root((Super Powers))
-    Mobile Dev
-      Flutter Ninja
-      SwiftUI Apprentice
-    AI/ML
-      TensorFlow Tamer
-      PyTorch Pilgrim
-      Scikit Sorcerer
-    Backend
-      Django Master
-      FastAPI Explorer
-      Flask Alchemist
-    Tools
-      Git Wizard
-      Docker Novice
-      Cloud Dreamer
+  root((Tech Stack))
+    Mobile Development
+      Flutter Maestro
+        BLoC Pattern
+        Clean Architecture
+        Firebase Integration
+        Supabase Integration
+      iOS Development
+        Swift
+        SwiftUI
+    Artificial Intelligence
+      PyTorch
+      Computer Vision
+      Natural Language Processing
+    Backend Technologies
+      Django
+      FastAPI
+      Node.js
+    Developer Tools
+      Git Workflow
+      CI/CD
+      Cloud Services
+      Docker
+      Linux
 ```
 
 </div>
 
+## Featured Projects
 
-
-
-
-## Project Galaxies
-
-### Mobile Development Universe
 <div align="center">
-  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=iDo-SwiftUI&theme=tokyonight)](https://github.com/ShishirRijal/iDo-SwiftUI)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=treasurehunt-app&theme=tokyonight)]([https://github.com/ShishirRijal/Flutter-News-App](https://github.com/ShishirRijal/treasurehunt-app))
+
+  <table>
+    <tr>
+      <td width="45%" style="padding: 20px; text-align: center; background: #f3f4f6; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+        <h3 style="color: #007bff;">ShopSphere</h3>
+        <a href="https://github.com/ShishirRijal/ShopSphere" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/shopsphere.gif" width="350" alt="ShopSphere" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+        </a>
+        <p>
+          <a href="https://github.com/ShishirRijal/ShopSphere" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>Flutter, Firebase, Clean Architecture</strong> - A full-featured eCommerce platform with clean architecture implementation.</p>
+      </td>
+      <td width="45%" style="padding: 20px; text-align: center; background: #f3f4f6; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+        <h3 style="color: #28a745;">Zero Waste Kitchen</h3>
+        <a href="https://github.com/ShishirRijal/Zero-Waste-Kitchen-Flutter" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/zerowaste.gif" width="350" alt="Zero Waste Kitchen" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+        </a>
+        <p>
+          <a href="https://github.com/ShishirRijal/Zero-Waste-Kitchen-Flutter" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>Flutter, Firebase, Provider</strong> - Social impact platform connecting food donors with those in need.</p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-### Machine Learning Dimension
-<div align="center">
-  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Emotion_Detection&theme=radical)](https://github.com/ShishirRijal/Emotion_Detection)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Spam-SMS-Classification&theme=radical)](https://github.com/ShishirRijal/Spam-SMS-Classification)
 
-</div>
-
-
-## 💭 Random Developer Quotes
-
-```javascript
-// Life of a programmer
-if (brain.isEmpty()) {
-    coffee.drink();
-    brain.recharge();
-    keepCoding();
-} else {
-    while (coffee.exists()) {
-        code.write();
-        bugs.fix();
-    }
-}
-```
-
-
-## My Programming Multiverse
+## Coding Stats
 
 <div align="center">
 
+<!--START_SECTION:waka-->
 ```text
-Mobile Dev    ███████████████░░░░   75%
-Machine Learning █████████░░░░░░░░   45%
-Backend      ████████░░░░░░░░░░░   40%
-Coffee Level ████████████████████  100%
-Bug Fixing   ██████████████████░░   90%
+Flutter █████████▒░░░░░░░░░░░ 37.20 %
+Python ███████▓░░░░░░░░░░░░░ 30.10 %
+C++ ██████░░░░░░░░░░░░░░░ 25.40 %
+SwiftUI ████░░░░░░░░░░░░░░░░░ 15.30 %
 ```
-
-*When I'm not coding, I'm probably:*
-- ☕ Refilling my coffee mug for the 17th time
-- 💭 Debugging in my dreams
-- 🎮 Gaming to refresh my brain cache
-- 🤔 Contemplating why my code works
+<!--END_SECTION:waka-->
 
 </div>
 
-## 🎵 Developer's Playlist
+## Community Impact
 
-```sql
-SELECT * FROM life 
-WHERE coding = true 
-  AND coffee_level > 0 
-  AND bugs = 0 
-ORDER BY happiness DESC;
-```
+<div align="center">
 
-## GitHub Statistics
+| Role | Organization | Impact |
+|------|-------------|---------|
+| President | i-CES | Led community of 20+ members, Conducted 25+ programs, 100+ mentored students |
+| MLSA | Microsoft | Cloud & AI workshops, developer community growth |
+| Organizer | EthosHack | 24-hour regional hackathon |
+| Organizer | TechParva | Event featuring Code with Coffee, Datathon, Design Incubation, Capture the Flag |
+| Organizer | AI Bootcamp | Year-long ML mentorship program |
+| Organizer & Mentor (Flutter) | Call For Enthusiast | Month long mentorship program|
+
+</div>
+
+
+## Contribution Graph
 
 <div align="center">
 
@@ -144,52 +150,83 @@ ORDER BY happiness DESC;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShishirRijal&theme=tokyonight" />
 </p>
 
-
 </div>
 
-## Certifications
+## Certifications & Achievements
 
 <div align="center">
 
-[![Certifications](https://img.shields.io/badge/-Associate_Data_Analyst-FF6B6B?style=for-the-badge&logoColor=white)](https://www.yourlink.com)
-[![Certifications](https://img.shields.io/badge/-Programming_in_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.yourlink.com)
-[![Certifications](https://img.shields.io/badge/-Django_Developer-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.yourlink.com)
-[![Certifications](https://img.shields.io/badge/-Data_Manipulation_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://www.yourlink.com)
-[![Certifications](https://img.shields.io/badge/-Git_and_Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.yourlink.com)
+[![Certifications](https://img.shields.io/badge/-Flutter_Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.udemy.com/certificate/UC-681a51c4-1d17-464b-994c-6adbe24e582a/)
+[![Certifications](https://img.shields.io/badge/-Machine_Learning_Specialization-FF6B6B?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/CT67SJQJPHQQ)
+[![Certifications](https://img.shields.io/badge/-Swift_Development-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://linkedin.com)
 
 </div>
 
-## 🛠️ Tech Stack
+## Technologies & Tools
 
 <div align="center">
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,cpp,django,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,python,django,fastapi,tensorflow,pytorch)](https://skillicons.dev)
 
-### 🔧 Tools & Technologies
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,tensorflow)](https://skillicons.dev)
-
-### 📚 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes,pytorch)](https://skillicons.dev)
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,firebase,vscode,androidstudio,azure,docker)](https://skillicons.dev)
 
 </div>
 
-## Let's Connect!
+## Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ccrrizal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishir.772417@pasc.tu.edu.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shishirrijal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishirrijal)
-[![GitHub](https://img.shields.io/badge/GitHub-ShishirRijal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShishirRijal)
+<a href="https://shishirrijal.com.np">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/shishirrijal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ccrrizal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+## ⚡ Fun Facts
+
+```javascript
+// Life of a developer
+while (isCoding) {
+    if (coffee.isEmpty()) {
+        coffee.refill();
+        brain.recharge();
+    }
+    if (bug.found()) {
+        if (deepseek.hasAnswer()) {
+            bug.fix();
+            happiness++;
+        } else if (stackoverflow.hasAnswer()) {
+            bug.fix();
+            happiness++;
+        } else {
+            coffee.drink();
+            debug.harder();
+        }
+    }
+    code.write();
+    knowledge.expand();
+}
+```
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-*"Code is poetry written in caffeine"* ☕️
+<img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/coffee-coding.gif" width="200">
+
+*"Building tomorrow's solutions, one line of code at a time."*
 
 </div>
