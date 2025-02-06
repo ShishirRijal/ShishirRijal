@@ -70,42 +70,81 @@ mindmap
       Linux
 ```
 
-</div>
+<div align="center">
 
 ## Featured Projects
 
-<div align="center">
-
-  <table>
-    <tr>
-      <td width="45%" style="padding: 20px; text-align: center; background: #f3f4f6; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-        <h3 style="color: #007bff;">ShopSphere</h3>
-        <a href="https://github.com/ShishirRijal/ShopSphere" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/shopsphere.gif" width="350" alt="ShopSphere" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-        </a>
-        <p>
-          <a href="https://github.com/ShishirRijal/ShopSphere" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-        <p><strong>Flutter, Firebase, Clean Architecture</strong> - A full-featured eCommerce platform with clean architecture implementation.</p>
-      </td>
-      <td width="45%" style="padding: 20px; text-align: center; background: #f3f4f6; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-        <h3 style="color: #28a745;">Zero Waste Kitchen</h3>
-        <a href="https://github.com/ShishirRijal/Zero-Waste-Kitchen-Flutter" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/zerowaste.gif" width="350" alt="Zero Waste Kitchen" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-        </a>
-        <p>
-          <a href="https://github.com/ShishirRijal/Zero-Waste-Kitchen-Flutter" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-        <p><strong>Flutter, Firebase, Provider</strong> - Social impact platform connecting food donors with those in need.</p>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Netflix Clone | SwiftUI</h3>
+      <a href="https://github.com/ShishirRijal/Netflix-Clone-SwiftUI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Netflix-Clone-SwiftUI&theme=tokyonight"/>
+      </a>
+      <p>SwiftUI • iOS • TMDB API</p>
+    </td>
+    <td width="50%">
+      <h3>Katha - Medium Clone with SwiftUI</h3>
+      <a href="https://github.com/ShishirRijal/Katha">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Katha&theme=tokyonight"/>
+      </a>
+      <p>SwiftUI • Firebase • CoreData</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Resume Parser</h3>
+      <a href="https://github.com/ShishirRijal/Resume-Parser">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Resume-Parser&theme=tokyonight"/>
+      </a>
+      <p>Python • NLP • Streamlit</p>
+    </td>
+    <td width="50%">
+      <h3>Emotion Detection</h3>
+      <a href="https://github.com/ShishirRijal/Emotion_Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Emotion_Detection&theme=tokyonight"/>
+      </a>
+      <p>Python • CNN • Deep Learning</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Hack and Hunt</h3>
+      <a href="https://github.com/ShishirRijal/treasurehunt-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=treasurehunt-app&theme=tokyonight"/>
+      </a>
+      <p>Flutter • Django • Firebase</p>
+      <p><a href="https://github.com/ShishirRijal/hackandhunt-api">Backend Code (API)→</a></p>
+    </td>
+    <td width="50%">
+      <h3>BloodBond</h3>
+      <a href="https://github.com/ShishirRijal/BloodBond-Frontend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=BloodBond-Frontend&theme=tokyonight"/>
+      </a>
+      <p>Flutter • FastAPI • Mobile</p>
+      <p><a href="https://github.com/ShishirRijal/BloodBond-Backend">Backend Code (API)→</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Budget Tracker</h3>
+      <a href="https://github.com/ShishirRijal/expense_tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=expense_tracker&theme=tokyonight"/>
+      </a>
+      <p>Flutter • Hive • Provider</p>
+    </td>
+    <td width="50%">
+      <h3>Quiz App</h3>
+      <a href="https://github.com/ShishirRijal/Quiz-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShishirRijal&repo=Quiz-App&theme=tokyonight"/>
+      </a>
+      <p>Flutter • Firebase • Auth • Dark Theme</p>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ## Coding Stats
