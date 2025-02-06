@@ -38,10 +38,12 @@ class CodeAlchemist:
         }
 ```
 
-<div align="center">
+
 
 ## Tech Stack
 
+<div align="center">
+  
 ```mermaid
 mindmap
   root((Tech Stack))
@@ -69,11 +71,11 @@ mindmap
       Docker
       Linux
 ```
-
-<div align="center">
+</div>
 
 ## Featured Projects
-
+<div align="center">
+  
 <table>
   <tr>
     <td width="50%">
