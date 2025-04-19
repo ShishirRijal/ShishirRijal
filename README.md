@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/ShishirRijal/ShishirRijal/main/assets/developer.gif" width="300">
 </div>
 
+<!--
 ## `$ whoami`
 
 ```python
@@ -72,7 +73,7 @@ mindmap
       Linux
 ```
 </div>
-
+-->
 ## Featured Projects
 <div align="center">
   
