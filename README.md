@@ -20,41 +20,34 @@ I build **machine learning systems** that solve real-world problems, from resear
 ---
 
 <div align="center">
-
 <h2 style="margin-bottom: 10px;">Tech Arsenal</h2>
-
 <table>
 <tr>
 <td align="center" width="50%">
-
 <h3 style="margin: 0;">ML & AI</h3>
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logoColor=000" />
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white" />
 </td>
 <td align="center" width="50%">
-
 <h3 style="margin: 0;">MLOps & Deploy</h3>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,fastapi,postgres,redis&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=000" />
-
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </td>
 </tr>
 </table>
 
+  
 **Also Skilled In**
 
 <img src="https://skillicons.dev/icons?i=flutter,swift,git,vscode&theme=dark" />
-
-<sub>Mobile dev background = production-ready mindset</sub>
 
 </div>
 
@@ -83,9 +76,9 @@ I build **machine learning systems** that solve real-world problems, from resear
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="80" />
 <br/><br/>
-<b>Real-time Inference</b>
+<b>Low-Resource NLP</b>
 <br/>
-<sub>Low-latency pipelines with model quantization</sub>
+<sub>Nepali TTS, image captioning, clinical NER — making AI work where data is scarce</sub>
 </td>
 </tr>
 </table>
@@ -97,6 +90,7 @@ I build **machine learning systems** that solve real-world problems, from resear
 <div align="center">
 
 <h2 style="margin-bottom: 10px;">Let's Connect</h2>
+
 Open to collaborating on impactful ML projects
 
 <a href="https://linkedin.com/in/shishirrijal">
